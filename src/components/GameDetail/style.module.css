@@ -1,0 +1,40 @@
+.gameDetail{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    /* border: solid 2px black; */
+}
+
+.name{
+    text-align: center;
+}
+
+.tableRow{
+    display: flex;
+    /* border: solid 2px black; */
+}
+
+
+.image{
+    height: 350px;
+    /* margin-right: auto; */
+    align-self: center;
+}
+
+.columnTitle{
+    display: flex;
+    width: 150px;
+    align-items: flex-start;
+}
+
+.columnContent{
+    display: flex;
+    width: 75%;
+    align-items: flex-start;
+    text-align: start;
+}
+
+.columnTitle, .columnContent{
+    border: solid 2px black;
+}
+

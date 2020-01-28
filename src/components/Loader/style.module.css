@@ -1,0 +1,67 @@
+@keyframes ldio_s3n3opfjovq_1 {
+    0% { transform: rotate(0deg) }
+   50% { transform: rotate(-45deg) }
+  100% { transform: rotate(0deg) }
+}
+@keyframes ldio_s3n3opfjovq_2 {
+    0% { transform: rotate(180deg) }
+   50% { transform: rotate(225deg) }
+  100% { transform: rotate(180deg) }
+}
+.ldio_s3n3opfjovq > div:nth-child(2) {
+  transform: translate(-15px,0);
+}
+.ldio_s3n3opfjovq > div:nth-child(2) div {
+  position: absolute;
+  top: 39.4px;
+  left: 39.4px;
+  width: 118.2px;
+  height: 59.1px;
+  border-radius: 118.2px 118.2px 0 0;
+  background: #f8b26a;
+  animation: ldio_s3n3opfjovq_1 1.2987012987012987s linear infinite;
+  transform-origin: 59.1px 59.1px
+}
+.ldio_s3n3opfjovq > div:nth-child(2) div:nth-child(2) {
+  animation: ldio_s3n3opfjovq_2 1.2987012987012987s linear infinite
+}
+.ldio_s3n3opfjovq > div:nth-child(2) div:nth-child(3) {
+  transform: rotate(-90deg);
+  animation: none;
+}@keyframes ldio_s3n3opfjovq_3 {
+    0% { transform: translate(187.15px,0); opacity: 0 }
+   20% { opacity: 1 }
+  100% { transform: translate(68.95px,0); opacity: 1 }
+}
+.ldio_s3n3opfjovq > div:nth-child(1) {
+  display: block;
+}
+.ldio_s3n3opfjovq > div:nth-child(1) div {
+  position: absolute;
+  top: 90.62px;
+  left: -7.88px;
+  width: 15.76px;
+  height: 15.76px;
+  border-radius: 50%;
+  background: #e15b64;
+  animation: ldio_s3n3opfjovq_3 1.2987012987012987s linear infinite
+}
+.ldio_s3n3opfjovq > div:nth-child(1) div:nth-child(1) { animation-delay: -0.5159s }
+.ldio_s3n3opfjovq > div:nth-child(1) div:nth-child(2) { animation-delay: -0.2541s }
+.ldio_s3n3opfjovq > div:nth-child(1) div:nth-child(3) { animation-delay: 0s }
+.loadingio_spinner_bean_eater_2byxqqr0upb {
+  width: 197px;
+  height: 197px;
+  display: inline-block;
+  overflow: hidden;
+  background: #ffffff;
+}
+.ldio_s3n3opfjovq {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(1);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio_s3n3opfjovq div { box-sizing: content-box; }
